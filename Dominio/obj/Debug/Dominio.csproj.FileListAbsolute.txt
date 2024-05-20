@@ -1,0 +1,6 @@
+F:\Proyectos GitHub\Management-WinForms\TPWinForm_Equipo5\Dominio\bin\Debug\Dominio.dll
+F:\Proyectos GitHub\Management-WinForms\TPWinForm_Equipo5\Dominio\bin\Debug\Dominio.pdb
+F:\Proyectos GitHub\Management-WinForms\TPWinForm_Equipo5\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+F:\Proyectos GitHub\Management-WinForms\TPWinForm_Equipo5\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+F:\Proyectos GitHub\Management-WinForms\TPWinForm_Equipo5\Dominio\obj\Debug\Dominio.dll
+F:\Proyectos GitHub\Management-WinForms\TPWinForm_Equipo5\Dominio\obj\Debug\Dominio.pdb

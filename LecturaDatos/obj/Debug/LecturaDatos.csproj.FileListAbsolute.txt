@@ -1,0 +1,9 @@
+F:\Proyectos GitHub\Management-WinForms\TPWinForm_Equipo5\LecturaDatos\bin\Debug\LecturaDatos.dll
+F:\Proyectos GitHub\Management-WinForms\TPWinForm_Equipo5\LecturaDatos\bin\Debug\LecturaDatos.pdb
+F:\Proyectos GitHub\Management-WinForms\TPWinForm_Equipo5\LecturaDatos\bin\Debug\Dominio.dll
+F:\Proyectos GitHub\Management-WinForms\TPWinForm_Equipo5\LecturaDatos\bin\Debug\Dominio.pdb
+F:\Proyectos GitHub\Management-WinForms\TPWinForm_Equipo5\LecturaDatos\obj\Debug\LecturaDatos.csproj.AssemblyReference.cache
+F:\Proyectos GitHub\Management-WinForms\TPWinForm_Equipo5\LecturaDatos\obj\Debug\LecturaDatos.csproj.CoreCompileInputs.cache
+F:\Proyectos GitHub\Management-WinForms\TPWinForm_Equipo5\LecturaDatos\obj\Debug\LecturaD.FC6D45C2.Up2Date
+F:\Proyectos GitHub\Management-WinForms\TPWinForm_Equipo5\LecturaDatos\obj\Debug\LecturaDatos.dll
+F:\Proyectos GitHub\Management-WinForms\TPWinForm_Equipo5\LecturaDatos\obj\Debug\LecturaDatos.pdb
